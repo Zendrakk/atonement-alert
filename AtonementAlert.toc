@@ -1,0 +1,10 @@
+## Interface: 120100
+## Title: Atonement Alert
+## Notes: Tracks your personal Atonement duration.
+## Author: Zendrakk
+## Version: 1.0.0
+## IconTexture: Interface\Addons\AtonementAlert\Icon.tga
+## SavedVariables: AtonementAlertDB
+## LoadSavedVariablesFirst: 1
+
+AtonementAlert.lua
